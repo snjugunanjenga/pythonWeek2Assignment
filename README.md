@@ -36,4 +36,4 @@ The code is well-commented and follows Python best practices, showcasing your un
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/snjugunanjenga/Week2Assignment.git
+   git clone https://github.com/snjugunanjenga/pythonWeek2Assignment.git
